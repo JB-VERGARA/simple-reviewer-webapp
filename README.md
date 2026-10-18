@@ -10,6 +10,9 @@ Create your own review decks, add questions, and practice using flashcards or mu
 - 📚 Create, edit, and delete review decks
 - 📝 Add, edit, and delete questions
 - 🃏 Flashcard mode
+- ⏱️ Customizable review time limits
+- ⚠️ Automatic review timeout
+- 💾 Remembers the last selected time limit
 - ❓ Multiple-choice mode
 - 🔀 Randomized questions
 - ✅ Automatic scoring
